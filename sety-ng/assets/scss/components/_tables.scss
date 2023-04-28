@@ -1,0 +1,20 @@
+
+.example-manual-table, .crud-table {
+  width: 100% !important;
+
+  th {
+    background-color: rgb(26, 179, 148);
+    border-color: white;
+    color: white;
+    text-align: center !important;
+  }
+  td {
+    text-align: center !important;
+  }
+}
+
+.crud-table {
+  td, th {
+    text-align: center !important;
+  }
+}
